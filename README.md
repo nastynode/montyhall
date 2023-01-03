@@ -8,8 +8,8 @@ Very verbose code. One function simulates the contestant sticking with their fir
 
 # To Run
 (requires gcc c compiler) compile from command line with 
-'''make'''
+```make```
 run 100 iterations with
-'''make run'''
+```make run```
 or choose the number of iterations with
-'''./montyhall'''
+```./montyhall```
